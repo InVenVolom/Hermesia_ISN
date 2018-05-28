@@ -91,7 +91,7 @@ int disp = 0;
 int pixelsInText;
 int x = matrix.width();
 
-/**********************************************FIN LED*********************************************/
+
 
 
 String str;
